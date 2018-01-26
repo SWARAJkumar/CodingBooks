@@ -7,6 +7,8 @@
 
 [Head First Java](https://drive.google.com/file/d/0B0ei4dT3i3U1b0wyV1Q1MHZOcnc/view?usp=sharing)
 
+[Head First Python](https://drive.google.com/file/d/0B08Lc1KQRmrfSEVUb3p1alItYTQ/view?usp=sharing)
+
 <h3>Deep Learning and Machine Learning (ML) books</h3>
 
 [Deep Learning by Ian Goodfellow and Yoshua Bengio](https://drive.google.com/file/d/0B08Lc1KQRmrfM3YzMl9aQ1pVdGc/view?usp=sharing)
@@ -14,8 +16,6 @@
 [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://drive.google.com/file/d/0B08Lc1KQRmrfalowUEhiM19VSUk/view?usp=sharing)
 
 [Solutions for Pattern Recognition and Machine Learning by Christopher M. Bishop](https://drive.google.com/file/d/0B08Lc1KQRmrfZnlka2FtaVQwaTA/view?usp=sharing)
-
-[Head First Python](https://drive.google.com/file/d/0B08Lc1KQRmrfSEVUb3p1alItYTQ/view?usp=sharing)
 
 [Getting Started with Tensorflow](https://drive.google.com/file/d/0B08Lc1KQRmrfUDNhQm5HZlFmbkE/view?usp=sharing)
 
