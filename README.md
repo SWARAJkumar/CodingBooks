@@ -33,4 +33,4 @@
 
 [Case In Point](https://drive.google.com/file/d/0B0ei4dT3i3U1Q19Ca1lYa0pXbEFYNFF5UTVwYWNmdTJFN2VV/view?usp=sharing)
 
-[AudioPhotography Ten Year On by David Frohlich](https://drive.google.com/file/d/1xcq6k4sjc9AbD5aApNdfFp7BZIS_Yfzg/view?usp=sharing)
+[Fast Design, Slow Innivation: AudioPhotography Ten Year On by David Frohlich](https://drive.google.com/file/d/1xcq6k4sjc9AbD5aApNdfFp7BZIS_Yfzg/view?usp=sharing)
