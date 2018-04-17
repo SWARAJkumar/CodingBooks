@@ -30,6 +30,7 @@
 
 <h3>Computational Neurscience</h3>
 [Theoretical Neuroscience Computational and Mathematical Modeling of Neural Systems - Peter Dayan, L. F. Abbott](https://github.com/SWARAJkumar/Computational-Neuroscience/blob/master/Theoretical%20Neuroscience%20Computational%20and%20Mathematical%20Modeling%20of%20Neural%20Systems%20-%20%20Peter%20Dayan%2C%20L.%20F.%20Abbott.pdf)
+
 <h3>Miscellaneous</h3>
 
 [Case In Point](https://drive.google.com/file/d/0B0ei4dT3i3U1Q19Ca1lYa0pXbEFYNFF5UTVwYWNmdTJFN2VV/view?usp=sharing)
