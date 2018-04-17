@@ -30,7 +30,8 @@
 [Approximation in Economic Design](https://drive.google.com/file/d/1QlU1zRbdIfKqXY_wlE9Q5iJU2Rg_pIKH/view?usp=sharing)
 
 <h3>Computational Neurscience</h3>
-[Theoretical Neuroscience Computational and Mathematical Modeling of Neural Systems - Peter Dayan, L. F. Abbott](https://drive.google.com/file/d/1lOKbcutjxsb00uB8z7rSkHpI09ryKbWg/view?usp=sharing)
+
+[Theoretical Neuroscience Computational and Mathematical Modeling of Neural System by Peter Dayan and L.F. Abbott](https://drive.google.com/file/d/1lOKbcutjxsb00uB8z7rSkHpI09ryKbWg/view?usp=sharing)
 
 <h3>Miscellaneous</h3>
 
